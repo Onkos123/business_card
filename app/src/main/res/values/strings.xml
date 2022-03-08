@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cartão de Visitas</string>
+    <string name="business_card_label">Cartão de visitas</string>
+    <string name="obrigatorio">Obrigatório</string>
+    <string name="sucesses_create_label">Sucesso ao salvar</string>
+    <string name="defoutColor">#607BB1</string>
+    <string name="label_share_to">Compartilhar</string>
+    <string name="cor_opcional">Cor(Opcional)</string>
+    <string name="confirm">Confirmar</string>
+    <string name="business">Empresa</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="phone_number">Telefone</string>
+    <string name="new_card">Novo cartão</string>
+    <string name="name">Nome</string>
+</resources>
